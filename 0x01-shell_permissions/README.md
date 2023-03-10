@@ -9,3 +9,6 @@
 8-James_Bond to remove all permission to owner and group, and give all permission to other users, to the file hello
 9-John_Doe to sets the mode of the file hello to -rwxr-x-wx
 10-mirror_permissiopns to sets the mode of the file hello the same as olleh's mode -rw-rw-r--
+11-directories_permissions to adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+12-directory_permossions to creates a directory called my_dir with permissions 751 in the working directory
+13-change_group to changes the group owner to school for the file hello
